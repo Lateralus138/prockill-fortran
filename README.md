@@ -6,9 +6,10 @@
 1. [Usage](#usage)
 2. [Motivation](#motivation)
 3. [Code](#code)
-4. [Files](#files)
-5. [To Compile](#compile)
-6. [License](#license)
+4. [Screenshot](#screenshot)
+5. [Files](#files)
+6. [To Compile](#compile)
+7. [License](#license)
 
 ## Usage <a href="usage"></a>
 
@@ -67,6 +68,11 @@ implicit none
     end do
 end program main
 ```
+
+## Screenshot
+
+![ScreenShot](./resource/screen.png)
+
 
 ## Files <a href="files"></a>
 
